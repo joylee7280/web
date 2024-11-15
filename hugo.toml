@@ -1,5 +1,5 @@
 # 使用的主題
-theme = "ananke"
+theme = "hugo-blog-awesome""
 
 # 網站網址，先維持預設
 baseURL = "https://leechiaoyu.blog/"
